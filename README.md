@@ -23,7 +23,7 @@ To monitor and analyze the user's previous health data, providing detailed insig
 
 ### Installation
  #### Clone the repository:
-git clone https://github.com/yourusername/health-tracker.git  
+git clone https://github.com/VertikaBajpai/Smartwatch_Companion
 
 #### Navigate to the project directory:
 
