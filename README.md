@@ -18,8 +18,7 @@ To monitor and analyze the user's previous health data, providing detailed insig
 
 ## Getting Started 🚀
 ### Prerequisites
-1. Flutter SDK (v3.x or later)
-<br>
+1. Flutter SDK (v3.x or later)<br>
 2. Dart (v2.17 or later)
 
 ### Installation
