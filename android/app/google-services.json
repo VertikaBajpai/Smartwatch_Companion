@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644624415255",
+    "project_id": "smartwatch-90567",
+    "storage_bucket": "smartwatch-90567.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644624415255:android:fdd48586249225a8ffba52",
+        "android_client_info": {
+          "package_name": "com.example.smartwatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzWdbIFhg3vTTXwTqSoHdN_IZEbhjQGCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
