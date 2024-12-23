@@ -15,9 +15,25 @@ To monitor and analyze the user's previous health data, providing detailed insig
 
 ## Getting Started 🚀
 # Prerequisites
-1.Flutter SDK (v3.x or later)
+1. Flutter SDK (v3.x or later)
 <br>
-2.Dart (v2.17 or later)
+2. Dart (v2.17 or later)
+
+## Installation
+ # Clone the repository:
+git clone https://github.com/yourusername/health-tracker.git  
+
+# Navigate to the project directory:
+
+cd health-tracker  
+
+# Install dependencies:
+
+
+flutter pub get  
+# Run the app:
+
+flutter run  
 
 
 
